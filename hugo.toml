@@ -14,8 +14,7 @@ buildExpired = false
   description = "A modern tech blog exploring the latest in software development and technology"
   keywords = ["Tech", "Software Development", "Programming", "Web Development", "Technology"]
   author = "Tech Enthusiast"
-  # Images for opengraph, twitter cards
-  images = ["<link-to-your-logo>"]
+  images = ["/images/logo.svg"]
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -38,12 +37,12 @@ buildExpired = false
   enabled = true
   title = "Modern Tech Insights"
   subtitle = "Exploring the cutting edge of technology"
-  imageUrl = "<link-to-your-profile-image>"
-  imageTitle = "my image"
+  imageUrl = "/images/logo.svg"
+  imageTitle = "Modern Tech Insights Logo"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/yourusername"
+  url = "https://github.com/PierreTsia"
 
 [[params.socialIcons]]
   name = "twitter"
@@ -53,11 +52,11 @@ buildExpired = false
   SiteVerificationTag = "XYZ"
 
 [params.assets]
-  favicon = "<link-to-your-favicon>"
-  favicon16x16 = "<link-to-your-favicon16>"
-  favicon32x32 = "<link-to-your-favicon32>"
-  apple_touch_icon = "<link-to-your-apple-touch-icon>"
-  safari_pinned_tab = "<link-to-your-safari-pinned-tab>"
+  favicon = "/images/logo.svg"
+  favicon16x16 = "/images/logo.svg"
+  favicon32x32 = "/images/logo.svg"
+  apple_touch_icon = "/images/logo.svg"
+  safari_pinned_tab = "/images/logo.svg"
 
 [params.cover]
   hidden = false
