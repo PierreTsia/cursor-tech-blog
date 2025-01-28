@@ -20,7 +20,7 @@ After analyzing the requirements, I'm going with **Hugo** as our static site gen
 6. Simple local development
 7. No database needed
 
-## Implementation Progress - January 28, 2025 21:20 (Paris Time)
+## Implementation Progress - January 28, 2025 21:25 (Paris Time)
 
 ### Current Session Goals:
 1. 🎨 Create and add visual assets
@@ -42,6 +42,13 @@ After analyzing the requirements, I'm going with **Hugo** as our static site gen
 8. ✅ Set up GitHub Actions workflow
 9. ✅ Pushed initial commit
 
+### Latest Updates:
+1. ✅ Fixed blog post frontmatter image path
+2. 🔄 GitHub Pages Configuration:
+   - Changed source to "GitHub Actions" in repository settings
+   - Using our custom Hugo workflow (not the default Jekyll or Static HTML options)
+   - HTTPS enforced automatically for pierretsia.github.io domain
+
 ### Current Challenges:
 1. 🔄 GitHub Actions deployment failing
    - Error: "Get Pages site failed. Please verify that the repository has Pages enabled"
@@ -49,9 +56,9 @@ After analyzing the requirements, I'm going with **Hugo** as our static site gen
    - Next step: Need to properly configure GitHub Pages in repository settings
 
 ### Pending Steps:
-1. Configure GitHub Pages settings:
-   - Set source to "GitHub Actions"
-   - Wait for first successful deployment
+1. Wait for the deployment to complete
+2. Test the live site at https://pierretsia.github.io/cursor-tech-blog/
+3. Consider adding custom domain in the future if needed
 
 ### Technical Decisions Made:
 - **Theme**: Chose PaperMod for its modern design, fast loading times, and SEO features
