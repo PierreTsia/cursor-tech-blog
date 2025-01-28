@@ -14,7 +14,7 @@ buildExpired = false
   description = "A modern tech blog exploring the latest in software development and technology"
   keywords = ["Tech", "Software Development", "Programming", "Web Development", "Technology"]
   author = "Tech Enthusiast"
-  images = ["/images/logo.svg"]
+  images = ["images/logo-dark.svg"]
   DateFormat = "January 2, 2006"
   defaultTheme = "dark"
   ShowReadingTime = true
@@ -55,11 +55,11 @@ Focused on AI, software development, and the future of tech."""
 
 [params.assets]
   disableHLJS = true
-  favicon = "/images/logo.svg"
-  favicon16x16 = "/images/logo.svg"
-  favicon32x32 = "/images/logo.svg"
-  apple_touch_icon = "/images/logo.svg"
-  safari_pinned_tab = "/images/logo.svg"
+  favicon = "images/logo-dark.svg"
+  favicon16x16 = "images/logo-dark.svg"
+  favicon32x32 = "images/logo-dark.svg"
+  apple_touch_icon = "images/logo-dark.svg"
+  safari_pinned_tab = "images/logo-dark.svg"
 
 [params.cover]
   linkFullImages = true

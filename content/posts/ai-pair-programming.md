@@ -9,10 +9,10 @@ showToc: true
 TocOpen: true
 weight: 1
 cover:
-    image: "/images/logo.svg"
+    image: "images/logo-dark.svg"
     alt: "AI Pair Programming"
     caption: "The future of software development"
-    relative: false
+    relative: true
 ---
 
 # The Rise of AI Pair Programming
