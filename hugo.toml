@@ -34,11 +34,15 @@ buildExpired = false
   tocopen = false
 
 [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Modern Tech Insights"
   subtitle = "Exploring the cutting edge of technology"
   imageUrl = "/images/logo.svg"
   imageTitle = "Modern Tech Insights Logo"
+
+[params.homeInfoParams]
+  Title = "Welcome to Modern Tech Insights"
+  Content = "Exploring the cutting edge of technology through in-depth articles and analysis"
 
 [[params.socialIcons]]
   name = "github"
