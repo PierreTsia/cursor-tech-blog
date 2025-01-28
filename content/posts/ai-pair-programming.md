@@ -9,9 +9,9 @@ showToc: true
 TocOpen: true
 weight: 1
 cover:
-    image: "images/logo-dark.svg"
-    alt: "AI Pair Programming"
-    caption: "The future of software development"
+    image: "images/ai-cover.svg"
+    alt: "Neural network visualization representing AI Pair Programming"
+    caption: "The future of software development is collaborative"
     relative: true
 ---
 
