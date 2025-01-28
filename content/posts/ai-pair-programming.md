@@ -6,7 +6,7 @@ tags: ["AI", "Programming", "Development", "Future Tech"]
 categories: ["Technology"]
 description: "Exploring how AI pair programming is revolutionizing software development in 2025"
 cover:
-    image: "<link-to-your-cover-image>"
+    image: "/images/logo.svg"
     alt: "AI Pair Programming"
     caption: "The future of software development"
 ---
