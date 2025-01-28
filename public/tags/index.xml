@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Modern Tech Insights</title>
+    <link>http://localhost:1313/cursor-tech-blog/tags/</link>
+    <description>Recent content in Tags on Modern Tech Insights</description>
+    <image>
+      <title>Modern Tech Insights</title>
+      <url>http://localhost:1313/cursor-tech-blog/%3Clink-to-your-logo%3E</url>
+      <link>http://localhost:1313/cursor-tech-blog/%3Clink-to-your-logo%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 20:52:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cursor-tech-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/cursor-tech-blog/tags/ai/</link>
+      <pubDate>Tue, 28 Jan 2025 20:52:00 +0100</pubDate>
+      <guid>http://localhost:1313/cursor-tech-blog/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/cursor-tech-blog/tags/development/</link>
+      <pubDate>Tue, 28 Jan 2025 20:52:00 +0100</pubDate>
+      <guid>http://localhost:1313/cursor-tech-blog/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Tech</title>
+      <link>http://localhost:1313/cursor-tech-blog/tags/future-tech/</link>
+      <pubDate>Tue, 28 Jan 2025 20:52:00 +0100</pubDate>
+      <guid>http://localhost:1313/cursor-tech-blog/tags/future-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/cursor-tech-blog/tags/programming/</link>
+      <pubDate>Tue, 28 Jan 2025 20:52:00 +0100</pubDate>
+      <guid>http://localhost:1313/cursor-tech-blog/tags/programming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

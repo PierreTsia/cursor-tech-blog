@@ -1,0 +1,74 @@
+baseURL = 'https://pierretsia.github.io/cursor-tech-blog/'
+languageCode = 'en-us'
+title = 'Modern Tech Insights'
+theme = 'PaperMod'
+
+# Enable SEO features
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  description = "A modern tech blog exploring the latest in software development and technology"
+  keywords = ["Tech", "Software Development", "Programming", "Web Development", "Technology"]
+  author = "Tech Enthusiast"
+  # Images for opengraph, twitter cards
+  images = ["<link-to-your-logo>"]
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+[params.profileMode]
+  enabled = true
+  title = "Modern Tech Insights"
+  subtitle = "Exploring the cutting edge of technology"
+  imageUrl = "<link-to-your-profile-image>"
+  imageTitle = "my image"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yourusername"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/yourusername"
+
+[params.analytics.google]
+  SiteVerificationTag = "XYZ"
+
+[params.assets]
+  favicon = "<link-to-your-favicon>"
+  favicon16x16 = "<link-to-your-favicon16>"
+  favicon32x32 = "<link-to-your-favicon32>"
+  apple_touch_icon = "<link-to-your-apple-touch-icon>"
+  safari_pinned_tab = "<link-to-your-safari-pinned-tab>"
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]

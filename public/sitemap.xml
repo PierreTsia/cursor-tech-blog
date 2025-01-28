@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/cursor-tech-blog/tags/ai/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/categories/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/tags/development/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/tags/future-tech/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/posts/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/tags/programming/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/tags/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/categories/technology/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-tech-blog/posts/ai-pair-programming/</loc>
+    <lastmod>2025-01-28T20:52:00+01:00</lastmod>
+  </url>
+</urlset>
